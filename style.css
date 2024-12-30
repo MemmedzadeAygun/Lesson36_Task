@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cards{
+    /* border: 1px solid black; */
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+    gap: 10px;
+}
+.card{
+    width: 300px;
+    height: 220px;
+}
+.card img{
+    width: 100%;
+    height: 220px;
+}
